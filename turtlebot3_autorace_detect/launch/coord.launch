@@ -1,0 +1,5 @@
+<launch>
+
+  <node pkg="turtlebot3_autorace_detect" type="coordinates_change_new.py" name="coordinates" output="screen">
+
+  </node>

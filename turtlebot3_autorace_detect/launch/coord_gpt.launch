@@ -1,0 +1,7 @@
+<launch>
+
+  <node pkg="turtlebot3_autorace_detect" type="coordinates_change_new.py" name="lane_detector" output="screen">
+
+  </node>
+  
+  </launch>
